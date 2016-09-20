@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://kp.reclaimwaste.xyz/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
